@@ -1,0 +1,5 @@
+Vercel:
+https://node-amazon-scraper-api.vercel.app
+
+RapidAPI:
+https://rapidapi.com/iradbouzidi/api/node-amazon-scraper-api
